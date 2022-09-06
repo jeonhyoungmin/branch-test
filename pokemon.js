@@ -1,0 +1,1 @@
+console.log("피카츄");
